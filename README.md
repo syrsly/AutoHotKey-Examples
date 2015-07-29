@@ -3,6 +3,8 @@ AutoHotKey Examples
 
 A collection of AutoHotKey scripts for generic purposes or educational material.
 
+This collection includes autoclickers, which may or may not be used for cheating in video games.  I do not condone cheating in MMORPGs and other competitive games, but autoclickers are not an unfair advantage.  You should assume that all players are using such tools when they could benefit from those tools.
+
 Easy Setup
 =======
 Install AutoHotKey if you have not already.  Save script files to a destination of your choosing on your computer.  Double-click a script file to run it.  Most scripts use Esc or Escape key to close or deactivate.
